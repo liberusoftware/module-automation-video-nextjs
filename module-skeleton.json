@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-video-nextjs",
+  "capabilityKey": "liberusoftware/automation-video",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-automation-video-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/automation/nextjs/video.md",
+  "presentationPlan": "projects/automation/nextjs/video.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
